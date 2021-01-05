@@ -170,3 +170,4 @@ Secondary Features:
 #HUD must display description of tile upon hovering over the tile.
 #Must not use real life time, i.e. nothing should be moving if no input is being received.
 
+#project description link: https://sp19.datastructur.es/materials/proj/proj3/proj3
